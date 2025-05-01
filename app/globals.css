@@ -1,0 +1,26 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+.cl-avatarBox {
+    width: 2.5rem;
+    height: 2.5rem;
+}
+
+.gradient-title {
+    @apply bg-gradient-to-b from-green-800 via-green-500 to-green-700 bg-clip-text tracking-tighter text-transparent pr-2 pb-2;
+}
+
+.ql-container{
+    min-height: 80vh;
+    height: 100%;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.ql-editor{
+    height: 100%;
+    flex: 1;
+    overflow-y: auto;
+    width: 100%;
+}
