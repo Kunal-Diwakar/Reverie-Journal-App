@@ -23,3 +23,5 @@
 - 🧘‍♂️ Minimal, calming interface to encourage daily journaling
 
 ## Screenshot 📸
+
+![image](https://github.com/user-attachments/assets/4c61c11d-2cc5-4185-bf08-2edb74bb14a7)
